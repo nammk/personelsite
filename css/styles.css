@@ -116,7 +116,9 @@ a:hover {
   float: right;
   margin-right: 30px;
 }
-
+.profile{
+  border-radius: 50%;
+}
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
